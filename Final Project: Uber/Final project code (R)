@@ -20,10 +20,6 @@ library(fGarch)
 
 ## I. Introduction 
 
-Uber trips occur all over cities. Analyzing Uber travelling data can help learn the traffic flows in a specific city as well as its economy level. Further, estimating travelling time is also meaningful in practice in an individual level by contributing to optimize schedule.
-
-The aims of our study are to identify a model best fitting the daily travel time data of Uber ride and find out the specific patterns of the travel time across different times of day or days of the week. Our project will focus on zone-to-zone travel times based on daily mean travel time of rides to investigate the travel pattern and users’ travel habits as well.
-
 #Data clean 
 ```{r}
 # import data 
