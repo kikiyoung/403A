@@ -21,8 +21,6 @@ library(fGarch)
 ```
 ## I. Introduction 
 
-dependent variable ???mean travel time range=upper-lower/average
-independent variable???weather / temperature/ holiday/ weekday
 
 #Data clean 
 
